@@ -15,3 +15,5 @@ visualizations.
 - I also wrapped it up with solid recommendations to drive tangible results!
 
 You can checkout my project document to see the incredible insights that emerged from this analysis.
+
+![project](https://github.com/Sid-TheAnalyst/Cyclistic-Bike-Share-Analysis-Using-R/blob/main/Cyclistic%20Bike%20Share%20Analysis/Google%20Capstone%20Project%20PDF%20File.pdf)
