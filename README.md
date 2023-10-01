@@ -14,6 +14,4 @@ visualizations.
 - From the nitty-gritty of data cleaning to the magic of uncovering patterns, I loved every moment of this project.
 - I also wrapped it up with solid recommendations to drive tangible results!
 
-You can checkout my project document to see the incredible insights that emerged from this analysis.
-
-![project](https://github.com/Sid-TheAnalyst/Cyclistic-Bike-Share-Analysis-Using-R/blob/main/Cyclistic%20Bike%20Share%20Analysis/Google%20Capstone%20Project%20PDF%20File.pdf)
+You can checkout my [project document](https://github.com/Sid-TheAnalyst/Cyclistic-Bike-Share-Analysis-Using-R/blob/main/Cyclistic%20Bike%20Share%20Analysis/Google%20Capstone%20Project%20PDF%20File.pdf) to see the incredible insights that emerged from this analysis.
